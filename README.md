@@ -2,6 +2,9 @@
 Day 1 TLDR:{
     Understanding ES6 Objects methods declaration and difference between let and var; 
     learning about the this keyword and behavior.
+    learning Object Destructuring.
+    learning about the Spread Operator.
+    
 }
 
 
@@ -68,8 +71,14 @@ Notes:
    //old way
    const combined = firstList.concat(secondList)
    //new way
-   const combined = [...firstList, ...secondList]
+   const combined = [...firstList, ...secondList] 
+   // we can also do 
+   const combined = [...firstList, 'a',...secondList]
   
+  Spread operator also works on Objects 
+  const firstObj = {name:'Osama'}
+  const secondObj = {job:'Front-end developer'}
+  const combined = {...firstObj, ...secondObj, location:'Jordan'} // logging this will result in a new object that has both attributes with the new attribute
   
   
 
