@@ -1,6 +1,6 @@
 # JavaScriptTraining
 Day 1 TLDR:{
-    1. Understanding ES6 Objects methods declaration and difference between let and var,
+    1. Understanding ES6 Objects methods declaration and difference between let and var.
     2. learning about the this keyword and behavior.
     3. learning Object Destructuring.
     4. learning about the Spread Operator.
@@ -16,12 +16,12 @@ Notes:
   Template literals can be used in the map function `<li>${var}</li>` 
   
   new methods notations example:
-  const person = {
+  `const person = {
     name:'Osama',
     walk(){
       console.log(this)
       }
-    }
+    }`
   
   Accessing the method has two ways.
   1. dot notation i.e person.walk() || person.name;
@@ -32,14 +32,14 @@ Notes:
   defined variable that has the reference to the mehtod. (this happens in strict mode 
   becauase: it is trying to access the global object which is not allowed by strict mode)
   
-  {...myObject
+  `{...myObject
   
   const walk = person.walk; 
   walk() // undefined 
     to solve this we use the bind method to make the method refer to a specific Object.
   const walk = person.walk.bind(person);
   walk() // will print the reference to the object {name:'Osama', walk:f}
-  }
+  }`
   
   using the bind method will return a new function that has the value of [this] is based on the argument passed to the bind method.
   
@@ -65,19 +65,19 @@ Notes:
     
    
    Spread operator:
-   const firstList = [1, 2, 3];
-   const secondList = [4, 5 ,6];
+   `const firstList = [1, 2, 3];
+   const secondList = [4, 5 ,6];`
    //old way
-   const combined = firstList.concat(secondList)
+   `const combined = firstList.concat(secondList)`
    //new way
-   const combined = [...firstList, ...secondList] 
+   `const combined = [...firstList, ...secondList] `
    // we can also do 
-   const combined = [...firstList, 'a',...secondList]
+   `const combined = [...firstList, 'a',...secondList]`
   
   Spread operator also works on Objects 
-  const firstObj = {name:'Osama'}
+  `const firstObj = {name:'Osama'}
   const secondObj = {job:'Front-end developer'}
-  const combined = {...firstObj, ...secondObj, location:'Jordan'} // logging this will result in a new object that has both attributes with the new attribute
+  const combined = {...firstObj, ...secondObj, location:'Jordan'}` // logging this will result in a new object that has both attributes with the new attribute
   
   
 
