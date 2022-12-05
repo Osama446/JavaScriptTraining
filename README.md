@@ -12,6 +12,7 @@ Day 1 TLDR:{
 
 
 Notes:
+
   let keyword is block level.
   var is function block.
   functions are Objects in JavaScript.
