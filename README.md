@@ -1,5 +1,5 @@
 # JavaScriptTraining
-Day 1 TLDR:{
+Day 1 TLDR:
 
     1. Understanding ES6 Objects methods declaration and difference between let and var.
     
@@ -8,22 +8,21 @@ Day 1 TLDR:{
     3. learning Object Destructuring.
     
     4. learning about the Spread Operator.
-}
 
 
 Notes:
 
-  let keyword is block level.
-  
-  var is function block.
-  
-  functions are Objects in JavaScript.
-  
-  Arrow functions do not rebind [this] keyword unlike old functions. The arrow function inherits the [this] 
-  value of it's parent object.
-  
-  Template literals can be used in the map function `<li>${var}</li>` 
-  
+      let keyword is block level.
+
+      var is function block.
+
+      functions are Objects in JavaScript.
+
+      Arrow functions do not rebind [this] keyword unlike old functions. The arrow function inherits the [this] 
+      value of it's parent object.
+
+      Template literals can be used in the map function `<li>${var}</li>` 
+
   new methods notations example:
   `const person = {
     name:'Osama',
