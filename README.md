@@ -14,10 +14,14 @@ Day 1 TLDR:{
 Notes:
 
   let keyword is block level.
+  
   var is function block.
+  
   functions are Objects in JavaScript.
+  
   Arrow functions do not rebind [this] keyword unlike old functions. The arrow function inherits the [this] 
   value of it's parent object.
+  
   Template literals can be used in the map function `<li>${var}</li>` 
   
   new methods notations example:
