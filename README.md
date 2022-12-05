@@ -1,7 +1,7 @@
 # JavaScriptTraining
 Day 1 TLDR:{
+    Understanding ES6 Objects methods declaration and difference between let and var; 
     
-
 }
 
 
@@ -9,6 +9,7 @@ Notes:
   let keyword is block level.
   var is function block.
   functions are Objects in JavaScript.
+  Arrow functions do not rebind [this] keyword unlike old functions. The arrow function inherits the [this] value of it's parent object.
   
   new methods notations example:
   const person = {
