@@ -1,8 +1,12 @@
 # JavaScriptTraining
 Day 1 TLDR:{
+
     1. Understanding ES6 Objects methods declaration and difference between let and var.
+    
     2. learning about the this keyword and behavior.
+    
     3. learning Object Destructuring.
+    
     4. learning about the Spread Operator.
 }
 
@@ -55,21 +59,28 @@ Notes:
     };
     
 //old way
+
     const street = address.street;
     const city = address.city;
     const country = address.country;
 
 //new way
+
     const { street, city, country } = address; // we do not need to call all the properties of the object we can choose as needed.
     const { streeet : st } = address // we can assign aliases to the object variables.
     
    
    Spread operator:
+   
    `const firstList = [1, 2, 3];
    const secondList = [4, 5 ,6];`
+   
    //old way
+   
    `const combined = firstList.concat(secondList)`
+   
    //new way
+   
    `const combined = [...firstList, ...secondList] `
    // we can also do 
    `const combined = [...firstList, 'a',...secondList]`
