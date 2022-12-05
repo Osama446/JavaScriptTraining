@@ -1,6 +1,6 @@
 # JavaScriptTraining
 Day 1 TLDR:{
-    Understanding ES6 Objects methods declaration and difference between let and var; 
+    Understanding ES6 Objects methods declaration and difference between let and var,
     learning about the this keyword and behavior.
     learning Object Destructuring.
     learning about the Spread Operator.
