@@ -89,10 +89,16 @@ Notes:
    // we can also do 
    `const combined = [...firstList, 'a',...secondList]`
   
-  Spread operator also works on Objects 
-  `const firstObj = {name:'Osama'}
-  const secondObj = {job:'Front-end developer'}
-  const combined = {...firstObj, ...secondObj, location:'Jordan'}` // logging this will result in a new object that has both attributes with the new attribute
+  Spread operator also works on Objects
+  
+  
+    const firstObj = {name:'Osama'}
+  
+  
+    const secondObj = {job:'Front-end developer'}
+    
+  
+     const combined = {...firstObj, ...secondObj, location:'Jordan'}` // logging this will result in a new object that has both attributes with the new attribute
   
   
 
