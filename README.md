@@ -1,4 +1,40 @@
 # JavaScriptTraining
+  Day 2 TLDR:
+
+    1. Learning about Classes and Objects.
+    
+    2. Inheritance and constructors.
+    
+    3. Modulaity (export and import).
+    
+
+Notes:
+  
+	Classes are named using the pascals naming convention. (ex: CoolPerson)
+	
+	Classes are blueprints to create objects.
+	
+	One of the main uses for class is error handling and eleminating redunduncy.
+	
+	Inheritance allows childern to access methods that exist in the parent.
+	
+	To edit the child class constructor we need to call the super method to send the parameter to 
+	parent.
+	
+	Moduals are private by default we need to make them public using the export keyword then import it with 
+	` import moduleName from 'module' `
+	
+	A class is an object in JavaScript that has a construtor method.
+	
+	We use the carly brases only to import the named export.
+	
+	the types of exports are:
+	//Default ->	` import moduleName from 'module' `  
+	
+	
+	//named ->	` import { ... } from 'module' `  
+	
+	
 Day 1 TLDR:
 
     1. Understanding ES6 Objects methods declaration and difference between let and var.
@@ -101,40 +137,7 @@ Notes:
      const combined = {...firstObj, ...secondObj, location:'Jordan'}` // logging this will result in a new object that has both attributes with the new attribute
   
   
-  Day 2 TLDR:
 
-    1. Learning about Classes and Objects.
-    
-    2. Inheritance and constructors.
-    
-    3. Modulaity (export and import).
-    
-
-Notes:
-  
-	Classes are named using the pascals naming convention. (ex: CoolPerson)
-	
-	Classes are blueprints to create objects.
-	
-	One of the main uses for class is error handling and eleminating redunduncy.
-	
-	Inheritance allows childern to access methods that exist in the parent.
-	
-	To edit the child class constructor we need to call the super method to send the parameter to 
-	parent.
-	
-	Moduals are private by default we need to make them public using the export keyword then import it with 
-	` import moduleName from 'module' `
-	
-	A class is an object in JavaScript that has a construtor method.
-	
-	We use the carly brases only to import the named export.
-	
-	the types of exports are:
-	//Default ->	` import moduleName from 'module' `  
-	
-	
-	//named ->	` import { ... } from 'module' `  
 	
 	
 	
