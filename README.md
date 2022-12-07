@@ -8,6 +8,10 @@ Notes:
   
 	We can redefine global variables in local scopes in a process called shadowing.
 	
+	When we add an event listenr to we pass a string that has the action, then we pass the address of the function we want to call.
+	
+	
+	
 
 	
   Day 2 TLDR:
