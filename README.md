@@ -14,6 +14,8 @@ Notes:
 	To parse a string value we can use the built in function parseInt(string) or we can use the + like this.
 	`currentResult = currentResult + +userInput.value;` // but if we want to be more precise we must use parseInt or parseFlaot 
 	
+	the increment and decrement operators ++ or -- change the return value based on their placement on the variable.
+	++var will return the edited value var++ will return the value before editing
 	
 
 	
