@@ -12,7 +12,7 @@ Notes:
 	When we add an event listenr to we pass a string that has the action, then we pass the address of the function we want to call.
 	
 	To parse a string value we can use the built in function parseInt(string) or we can use the + like this.
-	`currentResult = currentResult + +userInput.value;`
+	`currentResult = currentResult + +userInput.value;` // but if we want to be more precise we must use parseInt or parseFlaot 
 	
 	
 
