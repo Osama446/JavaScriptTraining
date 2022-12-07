@@ -1,4 +1,15 @@
 # JavaScriptTraining
+ Day 3 TLDR:
+
+    1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
+    
+
+Notes:
+  
+	We can redefine global variables in local scopes in a process called shadowing.
+	
+
+	
   Day 2 TLDR:
 
     1. Learning about Classes and Objects.
