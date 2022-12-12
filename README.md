@@ -1,4 +1,19 @@
 # JavaScriptTraining
+ Day 5 TLDR:
+
+    1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
+    
+
+Notes:
+	the defered way of importing the JS is much faster than the traditional way.
+  
+	
+ Day 4 TLDR:
+
+    Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
+    
+  
+	
  Day 3 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
