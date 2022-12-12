@@ -5,13 +5,19 @@
     
 
 Notes:
-	the defered way of importing the JS is much faster than the traditional way.
+	The defered way of importing the JS is much faster than the traditional way.
+	
+	Async can be used in the import tab to execute code directly when possible but it can lead to some issues so we use it only 
+	in standalone scripts.
+	
+	defer and async can be only used in imported scripts not with scripts that exist in script tags.
+	
   
 	
  Day 4 TLDR:
 
     Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
-    
+    Problem solving on codewars 
   
 	
  Day 3 TLDR:
