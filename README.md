@@ -1,4 +1,12 @@
 # JavaScriptTraining
+ Day 6 TLDR:
+
+    1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
+    
+
+Notes:
+	== checks for value equality only. However, === compares value and type.
+	
  Day 5 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
