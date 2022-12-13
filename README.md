@@ -7,7 +7,8 @@
 Notes:
 	`==` checks for value equality only. However, `===` compares value and type.
 	Truthy and falsy values:
-	 `
+	 
+	 
 	 1. 0 --> false.
 	 
 	 
@@ -18,7 +19,7 @@ Notes:
 	 
 	 
 	 4. Any other non-empty string including "false" --> true.
-	 `
+	 
 	
 	
  Day 5 TLDR:
