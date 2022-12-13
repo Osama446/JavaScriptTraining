@@ -9,8 +9,14 @@ Notes:
 	Truthy and falsy values:
 	 `
 	 1. 0 --> false.
+	 
+	 
 	 2. any other number other than 0 (including negative values) --> true.
+	 
+	 
 	 3. "" empty strings are considered --> false.
+	 
+	 
 	 4. Any other non-empty string including "false" --> true.
 	 `
 	
