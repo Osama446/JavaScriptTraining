@@ -6,9 +6,11 @@
 
 Notes:
 	`==` checks for value equality only. However, `===` compares value and type.
+	
+	
 	Truthy and falsy values:
-	 
-	 
+	
+	
 	 1. 0 --> false.
 	 
 	 
