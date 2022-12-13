@@ -20,6 +20,12 @@ Notes:
 	 
 	 4. Any other non-empty string including "false" --> true.
 	 
+	 
+	 5. All objects ({} & []) --> true.
+	 
+	 
+	 6. null, undefined, and NaN --> false. 
+	 
 	
 	
  Day 5 TLDR:
