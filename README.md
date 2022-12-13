@@ -5,7 +5,7 @@
     
 
 Notes:
-	== checks for value equality only. However, === compares value and type.
+	`==` checks for value equality only. However, `===` compares value and type.
 	
  Day 5 TLDR:
 
