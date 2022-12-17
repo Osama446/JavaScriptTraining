@@ -1,10 +1,12 @@
 # JavaScriptTraining
- Day 6 TLDR:
+ Day 8 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
     
 
 Notes:
+
+
 	1. ternary operator is a solution for conditional values.
 	`  const val = (condition)? true:false; `
 	
