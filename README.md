@@ -6,6 +6,8 @@ Day 9 TLDR:
 
 Notes:
 
+	1. double bang (!!) converts truthy and falsy values to truth and false values.
+
 
 
 
@@ -17,7 +19,8 @@ Day 8 TLDR:
 Notes:
 
 
-	1. double bang (!!) converts truthy and falsy values to truth and false values.
+	1. ternary operator is a solution for conditional values.
+	`  const val = (condition)? true:false; `
 	
 	
 
