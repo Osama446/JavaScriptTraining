@@ -7,6 +7,7 @@ Day 9 TLDR:
 Notes:
 
 	1. double bang (!!) converts truthy and falsy values to truth and false values.
+	2. refernce to episode 95 Very Improtant info
 
 
 
