@@ -1,5 +1,5 @@
 # JavaScriptTraining
- Day 8 TLDR:
+Day 9 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
     
@@ -7,8 +7,17 @@
 Notes:
 
 
-	1. ternary operator is a solution for conditional values.
-	`  const val = (condition)? true:false; `
+
+
+Day 8 TLDR:
+
+    1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
+    
+
+Notes:
+
+
+	1. double bang (!!) converts truthy and falsy values to truth and false values.
 	
 	
 
