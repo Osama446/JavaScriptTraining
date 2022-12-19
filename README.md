@@ -32,6 +32,8 @@ Notes:
 		 case second_event:
 		 //do something
 		 break;
+		 default: 
+		 //code here will executed no matter a case is found or not.
 	 }
 	
 	switch statements always use the triple equals to decide 
