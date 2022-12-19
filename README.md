@@ -25,6 +25,18 @@ Notes:
 	
 	
 	
+	switch(event){
+	 	case first_event:
+		 //do something
+		 break;
+		 case second_event:
+		 //do something
+		 break;
+	 }
+	
+	switch statements always use the triple equals to decide 
+	
+	
 
 Day 9 TLDR:
 
