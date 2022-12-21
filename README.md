@@ -6,8 +6,26 @@ Day 11 TLDR:
 
 Notes:
 	
+	forof syntax
 	
-
+	`
+	for(const item of arr){
+	
+	}
+	`
+	
+	
+	forin syntax
+	
+	`
+	for(const key in obj){
+	
+	}
+	`
+	
+	
+	
+	
 Day 10 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
