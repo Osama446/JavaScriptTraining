@@ -2,7 +2,7 @@
 Day 10 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
-    
+    2. problem solving
 
 Notes:
 
