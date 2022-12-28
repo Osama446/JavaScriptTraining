@@ -7,9 +7,7 @@ Day 12 TLDR:
 Notes:
 
 
-1.
-
-	... the spread operator is used to create real copies of reference values.
+1.	... the spread operator is used to create real copies of reference values.
 	
 	let arr = ['sports'];
 	
