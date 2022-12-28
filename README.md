@@ -33,6 +33,10 @@ Notes:
 	   
 	   shift() deletes the first element of the array.
 	   pop() deletes the last element of the array.
+	   
+	   splice(index, numOElementsToDelete, element to insert);
+	   We can use splice to insert elements inside the array.
+	   ex: splice(1, 0, 'my New Item') // this will insert an item at index 1.
 
 
 Day 12 TLDR:
