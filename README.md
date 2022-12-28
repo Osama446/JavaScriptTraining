@@ -30,6 +30,9 @@ Notes:
 
 	3. unshift(element) adds to the beginning of the array. 
 	   push(element) adds to the end of the array.
+	   
+	   shift() deletes the first element of the array.
+	   pop() deletes the last element of the array.
 
 
 Day 12 TLDR:
