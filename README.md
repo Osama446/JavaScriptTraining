@@ -20,7 +20,8 @@ Notes:
 	
 	
 	
-	creating a function inside the event listener can lead to a memory leak because the 
+	creating a function inside the event listener can lead to a memory leak because of the function being created every time as 
+	an anonymous function.
 
 Day 12 TLDR:
 
