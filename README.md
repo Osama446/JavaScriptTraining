@@ -24,6 +24,13 @@ Notes:
 
 	2. a function inside the event listener can lead to a memory leak because of the function being created every time as 
 	anonymous function.
+	
+------
+
+
+	3. unshift(element) adds to the beginning of the array. 
+	   push(element) adds to the end of the array.
+
 
 Day 12 TLDR:
 
