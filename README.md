@@ -7,7 +7,7 @@ Day 12 TLDR:
 Notes:
 
 
-1.	... the spread operator is used to create real copies of reference values.
+	1.	... the spread operator is used to create real copies of reference values.
 	
 	let arr = ['sports'];
 	
@@ -19,8 +19,10 @@ Notes:
 	const only records the address of objects (arrays, and actual objects) so data manipulation is possible through the array 
 	apis such as (push, pop, ect). 
 	
-2. 
-	creating a function inside the event listener can lead to a memory leak because of the function being created every time as 
+------
+
+
+	2. a function inside the event listener can lead to a memory leak because of the function being created every time as 
 	anonymous function.
 
 Day 12 TLDR:
