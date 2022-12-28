@@ -5,6 +5,7 @@ Day 12 TLDR:
     2. problem solving
 
 Notes:
+1.
 
 	... the spread operator is used to create real copies of reference values.
 	
@@ -18,10 +19,9 @@ Notes:
 	const only records the address of objects (arrays, and actual objects) so data manipulation is possible through the array 
 	apis such as (push, pop, ect). 
 	
-	
-	
+2. 
 	creating a function inside the event listener can lead to a memory leak because of the function being created every time as 
-	an anonymous function.
+	anonymous function.
 
 Day 12 TLDR:
 
