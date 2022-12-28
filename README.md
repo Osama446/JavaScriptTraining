@@ -4,6 +4,24 @@ Day 12 TLDR:
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
     2. problem solving
 
+Notes:
+
+	... the spread operator is used to create real copies of non primitave data types.
+	
+	let arr = ['sports'];
+	
+	let arr1 = arr; // this will only store the address of the arr.
+	to make an actual copy we need to use the spread operator.
+	
+	let realCopy = [...arr];
+	
+	const only records the address of objects (arrays, and actual objects) so data manipulation is possible through the array apis such as (push, pop, ect). 
+
+Day 12 TLDR:
+
+    1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
+    2. problem solving
+
 Day 11 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
