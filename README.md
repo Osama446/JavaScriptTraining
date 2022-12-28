@@ -1,5 +1,5 @@
 # JavaScriptTraining
-Day 12 TLDR:
+Day 13 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
     2. problem solving
