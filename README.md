@@ -1,4 +1,10 @@
 # JavaScriptTraining
+
+
+element.classList.toggle('cssclass');
+
+
+
 Day 13 TLDR:
 
     1. Watching the JavaScript - The Complete Guide 2023 (Beginner + Advanced)
@@ -37,6 +43,7 @@ Notes:
 	   splice(index, numOElementsToDelete, element to insert);
 	   We can use splice to insert elements inside the array.
 	   ex: splice(1, 0, 'my New Item') // this will insert an item at index 1.
+	   
 
 
 Day 12 TLDR:
