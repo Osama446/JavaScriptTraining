@@ -7,6 +7,10 @@ Day 14 TLDR:
 
 Notes:
 
+	We can send data from a form using the FormData() construture function and we can point a reference to the form 
+	to allow Js to try get all the form data. This however requires us to have a name attribute on the form fields we 
+	want to collect.
+
 xhr vs fetch
 
 function sendHttpRequest(method, url, data) {
