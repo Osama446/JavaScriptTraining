@@ -1,7 +1,6 @@
 # JavaScriptTraining
 
 
-element.classList.toggle('cssclass');
 
 
 
@@ -43,6 +42,9 @@ Notes:
 	   splice(index, numOElementsToDelete, element to insert);
 	   We can use splice to insert elements inside the array.
 	   ex: splice(1, 0, 'my New Item') // this will insert an item at index 1.
+	   
+		element.classList.toggle('cssclass');
+	   
 	   
 
 
